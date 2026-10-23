@@ -17,8 +17,17 @@ img {
 }
 
 a {
-    color: #555;
+    color: #fff;
     text-decoration: none;
+}
+
+nav {
+    
+    background: #000;
+    margin-left: 180px;
+    margin-right: 180px;
+    border: 2px solid;
+    box-sizing: border-box;
 }
 
 a:hover {
